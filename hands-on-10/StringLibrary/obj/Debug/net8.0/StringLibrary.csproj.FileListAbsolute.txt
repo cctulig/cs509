@@ -1,0 +1,12 @@
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\cctul\Documents\School\SoftwareEngineering\cs509\hands-on-10\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
